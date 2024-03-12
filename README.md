@@ -18,7 +18,7 @@ After creating a class,there has to be a new instance of a class.
 Init -it's important to initialize so that a method can take arguments.
       # Factorial
       -gives the number of possible arrangements of a set of items/length "n"
-      E.G 4!=4*3*2*1
+      E.G 4!= 4*3*2*1
       The factorial of 0 returns 1 , as it has 1 posssible arrangement/length
       If a factorial is negative(-) & a float ,it returns NONE.
 
