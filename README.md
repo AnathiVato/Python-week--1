@@ -22,6 +22,15 @@ Init -it's important to initialize so that a method can take arguments.
       The factorial of 0 returns 1 , as it has 1 posssible arrangement/length
       If a factorial is negative(-) & a float ,it returns NONE.
 
-# DAY 3
+# DAY 3 : Basic Data types
+Classes are created to make it easier to re use the code.
+Python has a built in funcion called TYPE...
+== For comparing
+* Number casting: changing one type to another.
+  E.G num_1="100"
+      num_2="200"
+  num_1=int(num_1)
+  num_2=int(num_2)
+  print(num_1 + num_2)
 # DAY 4
 # DAY 5
