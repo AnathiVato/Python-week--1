@@ -75,3 +75,27 @@ git config --global user.name "Anartty"
 git config --global user.email "anathinartty87@gmail.com"
 
 git config --global --list
+
+  # Python-week--2
+ # Basic Functions
+NB:
+. When using a keyword argument in Python, They must come after positional arguments
+-First 2 arguments can't be changed
+# Positional Arguments: used to pass in any number of variables & it should be before argument name.
+Function can be called usng one or more arguments.
+# KEYWORD ARGUMENT
+POSITIONAL ARGUMENTS: - STORED AS A TUPLE
+-KEYWORD ARGUMENT:- STORED AS A DICTIONARY
+* It has a key & a value(so DIC is appropriate to store its values)
+  VARIABLES & SCOPE
+  Local functions-Method that allows us to access all variables with function
+  * LAMBDA FUNCTION
+  * No need to write 'return' function as it's already implified in Python
+  * Sort Function- used to arrange items in order
+  * Services are up- Determines if there will be anything returned or not.
+      So, if it's true-it will return a response....if it's false it will not reurn any response.
+  * .Random(Generates a float between 0 and 1
+ -<0.5: 50 % chances
+-0.25: 25% chances
+  -0.1: 10%
+
