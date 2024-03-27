@@ -94,7 +94,7 @@ POSITIONAL ARGUMENTS: - STORED AS A TUPLE
   * Sort Function- used to arrange items in order
   * Services are up- Determines if there will be anything returned or not.
       So, if it's true-it will return a response....if it's false it will not reurn any response.
-  * .Random(Generates a float between 0 and 1
+  * .Random(Generates a float between 0 and 1)
  -<0.5: 50 % chances
 -0.25: 25% chances
   -0.1: 10%
@@ -155,7 +155,11 @@ POSITIONAL ARGUMENTS: - STORED AS A TUPLE
           -COVERTING FROM JSON TO PYTHON
           * json.loads()
           -COVERTING FROM PYTHON TO JSON
-          * json.dumps()
+          * json.dumps() 
+          * Strip method: for removing white spaces before & after the string
+          To accept multiple values or if the number of args is unkown, can add * before the parameter name
+          -Append- index doesn't use the index
+          -String is immutable
           
           
 
