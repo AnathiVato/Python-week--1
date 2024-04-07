@@ -160,6 +160,19 @@ POSITIONAL ARGUMENTS: - STORED AS A TUPLE
           To accept multiple values or if the number of args is unkown, can add * before the parameter name
           -Append- index doesn't use the index
           -String is immutable
+#WEEK -3
+PROJET PLANNING:
+-Use cases
+-Functiona & Non-Functional Requirements
+
+* Use cases includes: Title,Actor & Scenario( core elements of a use case)
+* Functional Requirements: Describing what the App should/shouldn't do.
+*  Non-Functional Requirements: Describes the how part of the system.
+  Like Maintainability,Reliability & Usability
+DIFFERENT CLASSES OF A PROJECT
+  *Content class- responsible for generating & retrieving content.
+  *Email class- handles formatting & sending emails.
+  *Gui class- manages configuration
           
           
 
